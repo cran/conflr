@@ -1,6 +1,6 @@
-62b14b5c29448ef7bfd8fe7c236c7fb7 *DESCRIPTION
+eb59814b40f11e581b4992ec56db9cdc *DESCRIPTION
 3fbbc2f04491a392846017be5995ea36 *NAMESPACE
-b008940ceb0a507b2c4d582c68428600 *NEWS.md
+26a3eb4f3fe5f4ff1f6721c2b50b4dd2 *NEWS.md
 ef63ab9088dfa79347ee09794f7248b1 *R/addin-internals.R
 90d21f63fa3682d05687be39bf9541ab *R/addin.R
 90807c0a31218589d2261973030fe36a *R/attachment.R
@@ -15,9 +15,6 @@ c484c5f8808472b77e43bb381088fc94 *R/user.R
 24401766ced186319bf287536d5125a1 *R/util.R
 89edaa742a943f1d0d95248b66000c33 *README.md
 061dc56090e5865f89107157d454397d *inst/extdata/example.Rmd
-d670c693d36142b9658a1f9faa6f5aa4 *inst/extdata/example.md
-ba25c02d6901b01f77db38a453a75d64 *inst/extdata/example.md_result_url
-adeebeccd32ab470ca8f9955ba1f836c *inst/extdata/example_files/figure-commonmark/pressure-1.png
 575fe0fc6fb7284f463e5e2f38b6add7 *inst/rstudio/addins.dcf
 19264faa7c24df241db0267a8730cab7 *man/confl_attachment.Rd
 4c1a0e8aff0e873f7ab7bdd91886e6b3 *man/confl_content.Rd
@@ -36,11 +33,11 @@ f82efdb8102384e582049e5aee3abbe0 *man/figures/screenshot3.png
 92badec95d2e9eff061ff9258c4029ef *tests/testthat/plot1.png
 8a119d4e797cadcd85d91a04fc2a6610 *tests/testthat/test-content.R
 a3f9b149ccd05d057950d9725dc33bfe *tests/testthat/test-contentbody.R
-3f69f22672f3309a22f5c6d18852d4c3 *tests/testthat/test-embed-images.R
-0b3c5c5cd9309af785e4833ac212f7f7 *tests/testthat/test-front-matter.R
-4b279e95764445a2654b0b94803f8fd6 *tests/testthat/test-invalid-credential.R
+bc580ac1c4e299fba19c964f6885dbf3 *tests/testthat/test-embed-images.R
+7af43404c25981d935223a774ed8261a *tests/testthat/test-front-matter.R
+bfaf56f477014549dd21420c495dbf72 *tests/testthat/test-invalid-credential.R
 9c6d2eab667105d523e6689c82baade1 *tests/testthat/test-mock-progress.R
-bff86a0019da52fc1258179af62a93c4 *tests/testthat/test-render.R
-e53e91a6bf5b3cf192d3bf82a36bb168 *tests/testthat/test-toc.R
+fae397412a45448ec19ce9468d5a5e9b *tests/testthat/test-render.R
+0e66f9383290beb952cb5d0a01b91836 *tests/testthat/test-toc.R
 fc0d57c3d6f5feca7b6c8e4e34972f6f *tests/testthat/test-translate.R
 4fab9873a8fba00ce12f04016fc565d0 *tests/testthat/test-utils.R
